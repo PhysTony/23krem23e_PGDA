@@ -1,0 +1,22 @@
+Pregunta 1
+1. What are the coordinates for Boston?
+42.35843, -71.05977
+It is important to have the exact coordinates to generate accurate maps.
+
+2. What function was used to generate circular markers?
+CircleMarker()
+This is correct. Remember to import the MarkerCluster plugin from the folium library!
+
+3. Which regions in Boston have the highest crime rates?
+Roxbury
+Dorchester
+South End
+
+4. What is the purpose of geospatial visualization?
+To study a region of interest and look for clues that tell us why an incident occurs there.
+This is correct. If we do not perform an inner join, there will be a lot of Nan values in our map.
+
+5. What is the folium function to generate a heat map?
+.add_child(HeatMap())
+This is correct. A heat map is added as a layer on the base map.
+

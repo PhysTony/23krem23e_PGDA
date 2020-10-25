@@ -1,0 +1,10 @@
+To share your shiny new dashboard with the world, follow these steps:
+
+1. Change the name of the html file to 'index.html'
+2. create a github repository and ensure that you initialize it with a read.me file.
+3. Once the repository is ready, rename the dashboard to 'index.html'. If you name it anything else,
+it will not show up.
+4. Once the dashboard is successfully uploaded, remove all content from the read.me file.(Do not
+delete the file, it just needs to be empty)
+5. Go to settings of your repository and enable github pages.
+6. Visit the link of the newly created gihub page and your dashboard should appear!

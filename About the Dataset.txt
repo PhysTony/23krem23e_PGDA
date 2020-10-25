@@ -1,0 +1,9 @@
+The data for this guided project is sourced from "CRIME INCIDENT REPORTS (AUGUST 2015 - TO DATE)
+(SOURCE: NEW SYSTEM)"
+
+It is a clean dataset which does not require manipulation. So we can start generating maps right
+away.
+
+Official site:
+https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system
+
